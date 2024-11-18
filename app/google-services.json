@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "860841586871",
+    "firebase_url": "https://yoga-to-trinh-default-rtdb.firebaseio.com",
+    "project_id": "yoga-to-trinh",
+    "storage_bucket": "yoga-to-trinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860841586871:android:dd46d54816b951396bdd32",
+        "android_client_info": {
+          "package_name": "yogaspatotrinh.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLREk-lX3WMAwzmWihS3ScZ_RUoBYZMCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
